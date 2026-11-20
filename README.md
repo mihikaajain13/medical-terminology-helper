@@ -1,3 +1,4 @@
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/8b4gjtye2e/badge.svg)](https://ask.thili.ai/b/8b4gjtye2e)
 # Medical Terminology Helper
 An offline command-line study tool for introductory anatomy. Type a phrase such as "Arteries carry" to generate its continuation. The bundled model learns a small set of study sentences. Unfamiliar wording can produce inaccurate or repetitive text. For vocabulary practice only.
 
